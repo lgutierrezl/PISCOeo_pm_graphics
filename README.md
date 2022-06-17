@@ -4,7 +4,7 @@
 PISCOeo_pm_graphics are the functions for generating the figures of the PISCOeo_pm, a gridded reference crop evapotranspiration ([FAO Penman-Monteith](http://www.fao.org/3/x0490e/x0490e06.htm)) dataset (also sunshine duration, dew temperature, and wind speed) for the Peru (1981-present).
 
 <center>
-<img src="https://user-images.githubusercontent.com/16768318/147897036-960ea777-6bac-436c-9c2f-dbcc773b143e.gif" width=50%>
+<img src="https://github.com/lgutierrezl/PISCOeo_pm_graphics/blob/main/eo_clim.gif" width=50%>
 </center>
 
 ## Data

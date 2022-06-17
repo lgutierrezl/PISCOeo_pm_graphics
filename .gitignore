@@ -1,0 +1,22 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data
+**.csv
+**.RDS
+
+# Figures
+**.png
+**.jpg
+**.pdf
+
+# Spatial
+**.shp
+**.dbf
+**.cpg
+**.prj
+**.shx
+**.tif
+**.nc
